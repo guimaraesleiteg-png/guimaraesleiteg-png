@@ -1,8 +1,8 @@
 <div align="center">
 
-# Gustavo Guimarães Leite
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gustavo%20Guimar%C3%A3es%20Leite&fontSize=42&fontAlignY=35&animation=fadeIn" width="100%" />
 
-Desenvolvedor full-stack focado em sistemas financeiros e fiscais para escritórios contábeis
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+full-stack;Sistemas+financeiros+e+fiscais+para+escrit%C3%B3rios+cont%C3%A1beis;NFS-e+nacional+com+IBS%2FCBS;Concilia%C3%A7%C3%A3o+banc%C3%A1ria%2C+boletos+e+Pix" alt="Apresentação" />
 
 </div>
 
@@ -41,18 +41,21 @@ Desenvolvedor full-stack focado em sistemas financeiros e fiscais para escritór
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=guimaraesleiteg-png&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=guimaraesleiteg-png&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" alt="Estatísticas do GitHub" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraesleiteg-png&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraesleiteg-png&layout=compact&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" height="165" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraesleiteg-png&theme=transparent" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guimaraesleiteg-png&theme=transparent" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guimaraesleiteg-png&theme=transparent" height="160" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=guimaraesleiteg-png&hide_border=true&theme=dark&background=00000000" />
   <img src="https://streak-stats.demolab.com?user=guimaraesleiteg-png&hide_border=true&background=00000000" alt="Sequência de contribuições" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guimaraesleiteg-png&bg_color=00000000&color=2F81F7&line=2F81F7&point=8B949E&area=true&hide_border=true" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/output/github-snake.svg" alt="Cobrinha das contribuições" />
 </picture>
 
 </div>
@@ -60,3 +63,5 @@ Desenvolvedor full-stack focado em sistemas financeiros e fiscais para escritór
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-leitegl)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
