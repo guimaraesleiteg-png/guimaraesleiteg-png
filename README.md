@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.gif" width="100%" alt="Banner em pixel art" />
+
 <img src="assets/holo-card.svg" width="100%" alt="Carta holográfica de Gustavo Guimarães Leite" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+full-stack;Sistemas+financeiros+e+fiscais+para+escrit%C3%B3rios+cont%C3%A1beis;NFS-e+nacional+com+IBS%2FCBS;Concilia%C3%A7%C3%A3o+banc%C3%A1ria%2C+boletos+e+Pix" alt="Apresentação" />
