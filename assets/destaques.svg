@@ -1,19 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
   <defs>
-    <radialGradient id="da" cx="0.18" cy="0" r="0.45"><stop offset="0" stop-color="#2f6fb8" stop-opacity=".55"/><stop offset="1" stop-color="#2f6fb8" stop-opacity="0"/></radialGradient>
-    <radialGradient id="db" cx="0.68" cy="0.15" r="0.5"><stop offset="0" stop-color="#1f7a3a" stop-opacity=".45"/><stop offset="1" stop-color="#1f7a3a" stop-opacity="0"/></radialGradient>
-    <radialGradient id="dc" cx="0.62" cy="1.05" r="0.4"><stop offset="0" stop-color="#7b4bc4" stop-opacity=".5"/><stop offset="1" stop-color="#7b4bc4" stop-opacity="0"/></radialGradient>
-    <radialGradient id="dd" cx="1" cy="0.95" r="0.35"><stop offset="0" stop-color="#1b8a8a" stop-opacity=".45"/><stop offset="1" stop-color="#1b8a8a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="da" cx="0.18" cy="0" r="0.45"><stop offset="0" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="db" cx="0.68" cy="0.15" r="0.5"><stop offset="0" stop-color="#9a9a9a" stop-opacity=".08"/><stop offset="1" stop-color="#9a9a9a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="dc" cx="0.62" cy="1.05" r="0.4"><stop offset="0" stop-color="#ffffff" stop-opacity=".07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="dd" cx="1" cy="0.95" r="0.35"><stop offset="0" stop-color="#6a6a6a" stop-opacity=".10"/><stop offset="1" stop-color="#6a6a6a" stop-opacity="0"/></radialGradient>
+    <pattern id="dp" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="1" height="1" fill="#fff" fill-opacity=".07"/><rect x="2" y="2" width="1" height="1" fill="#fff" fill-opacity=".04"/></pattern>
+    <pattern id="dl" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".35"/></pattern>
+    <radialGradient id="dv" cx=".5" cy=".5" r=".75"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".75"/></radialGradient>
   </defs>
-  <rect x=".5" y=".5" width="859" height="179" rx="22" fill="#0d1117" stroke="#2f5f93" stroke-opacity=".8"/>
+  <rect x=".5" y=".5" width="859" height="179" rx="22" fill="#050505" stroke="#3d3d3d" stroke-opacity=".8"/>
   <g>
     <rect width="860" height="180" rx="22" fill="url(#da)"/>
     <rect width="860" height="180" rx="22" fill="url(#db)"/>
     <rect width="860" height="180" rx="22" fill="url(#dc)"/>
     <rect width="860" height="180" rx="22" fill="url(#dd)"/>
+    <rect width="860" height="180" rx="22" fill="url(#dp)"/>
   </g>
   
+  <path d="M10,24 V10 H24 M836,10 H850 V24 M850,156 V170 H836 M24,170 H10 V156" fill="none" stroke="#e8e8e8" stroke-width="2" stroke-opacity=".7"/>
+  <text x="836" y="168" font-size="9" letter-spacing="2" fill="#5a5a5a" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">SYS://D-04 · <tspan fill="#e8e8e8">●<animate attributeName="fill-opacity" values="1;.15;1" dur="1.6s" repeatCount="indefinite"/></tspan> ONLINE</text>
 
-  <text x="30" y="44" font-size="11" letter-spacing="4" fill="#7d8da1" font-weight="700">DESTAQUES</text>
-  <g transform="translate(28.0,60)"><rect width="257.3" height="96" rx="16" fill="#0d1117" fill-opacity=".6" stroke="#58a6ff" stroke-opacity=".35"/><rect x="0" y="22" width="4" height="52" rx="2" fill="#4ea1ff"/><text x="24" y="40" font-size="15" font-weight="800" fill="#f0f6fc">Código aberto</text><text x="24" y="64" font-size="12.5" fill="#9fb0c3">1 repositório(s) público(s)</text></g><g transform="translate(301.3,60)"><rect width="257.3" height="96" rx="16" fill="#0d1117" fill-opacity=".6" stroke="#58a6ff" stroke-opacity=".35"/><rect x="0" y="22" width="4" height="52" rx="2" fill="#3fb950"/><text x="24" y="40" font-size="15" font-weight="800" fill="#f0f6fc">Ritmo</text><text x="24" y="64" font-size="12.5" fill="#9fb0c3">5 contribuições no último ano</text></g><g transform="translate(574.7,60)"><rect width="257.3" height="96" rx="16" fill="#0d1117" fill-opacity=".6" stroke="#58a6ff" stroke-opacity=".35"/><rect x="0" y="22" width="4" height="52" rx="2" fill="#a371f7"/><text x="24" y="40" font-size="15" font-weight="800" fill="#f0f6fc">Comunidade</text><text x="24" y="64" font-size="12.5" fill="#9fb0c3">0 seguidores · 0 estrelas</text></g>
+  <text x="30" y="44" font-size="11" letter-spacing="4" fill="#6f6f6f" font-weight="700">MÓDULOS ATIVOS</text>
+  <g transform="translate(28.0,60)"><rect width="257.3" height="96" rx="16" fill="#050505" fill-opacity=".6" stroke="#d9d9d9" stroke-opacity=".35"/><rect x="0" y="22" width="4" height="52" rx="2" fill="#f2f2f2"/><text x="24" y="40" font-size="15" font-weight="800" fill="#f5f5f5">Repositórios</text><text x="24" y="64" font-size="12.5" fill="#a3a3a3">1 repositório(s) público(s)</text></g><g transform="translate(301.3,60)"><rect width="257.3" height="96" rx="16" fill="#050505" fill-opacity=".6" stroke="#d9d9d9" stroke-opacity=".35"/><rect x="0" y="22" width="4" height="52" rx="2" fill="#bdbdbd"/><text x="24" y="40" font-size="15" font-weight="800" fill="#f5f5f5">Atividade</text><text x="24" y="64" font-size="12.5" fill="#a3a3a3">7 contribuições no último ano</text></g><g transform="translate(574.7,60)"><rect width="257.3" height="96" rx="16" fill="#050505" fill-opacity=".6" stroke="#d9d9d9" stroke-opacity=".35"/><rect x="0" y="22" width="4" height="52" rx="2" fill="#9a9a9a"/><text x="24" y="40" font-size="15" font-weight="800" fill="#f5f5f5">Rede</text><text x="24" y="64" font-size="12.5" fill="#a3a3a3">0 seguidores · 0 estrelas</text></g>
+  <rect width="860" height="180" rx="22" fill="url(#dl)" pointer-events="none"/>
+  <rect width="860" height="180" rx="22" fill="url(#dv)" pointer-events="none"/>
 </svg>
