@@ -84,4 +84,4 @@
 
 </div>
 
-<sub>Painéis gerados por <code>scripts/gerar.py</code> e atualizados todo dia por uma GitHub Action.</sub>
+<sub>Banner: pixel art de terceiros (créditos ao artista original). Painéis gerados por <code>scripts/gerar.py</code> e atualizados todo dia por uma GitHub Action.</sub>
