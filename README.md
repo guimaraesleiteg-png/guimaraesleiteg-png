@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/8b3bb803c2662da3b6d1bebe1bcfe1bcbe767182/assets/banner.gif" width="100%" alt="Banner em pixel art" />
+<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/481b974464b88e29ba42d3390a412218dd74be03/assets/banner.gif" width="100%" alt="Banner em pixel art" />
 
-<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/8b3bb803c2662da3b6d1bebe1bcfe1bcbe767182/assets/holo-card.svg" width="100%" alt="Carta holográfica de Gustavo Guimarães Leite" />
+<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/481b974464b88e29ba42d3390a412218dd74be03/assets/holo-card.svg" width="100%" alt="Carta holográfica de Gustavo Guimarães Leite" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=800&color=C8C8C8&center=true&vCenter=true&width=650&lines=Desenvolvedor+full-stack;Sistemas+financeiros+e+fiscais+para+escrit%C3%B3rios+cont%C3%A1beis;NFS-e+nacional+com+IBS%2FCBS;Concilia%C3%A7%C3%A3o+banc%C3%A1ria%2C+boletos+e+Pix" alt="Apresentação" />
 
-<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/8b3bb803c2662da3b6d1bebe1bcfe1bcbe767182/assets/sinais.svg" width="100%" alt="Sinais do perfil" />
+<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/481b974464b88e29ba42d3390a412218dd74be03/assets/sinais.svg" width="100%" alt="Sinais do perfil" />
 
-<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/8b3bb803c2662da3b6d1bebe1bcfe1bcbe767182/assets/stack.svg" width="100%" alt="Stack principal" />
+<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/481b974464b88e29ba42d3390a412218dd74be03/assets/stack.svg" width="100%" alt="Stack principal" />
 
-<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/8b3bb803c2662da3b6d1bebe1bcfe1bcbe767182/assets/destaques.svg" width="100%" alt="Destaques" />
+<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/481b974464b88e29ba42d3390a412218dd74be03/assets/destaques.svg" width="100%" alt="Destaques" />
 
-<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/8b3bb803c2662da3b6d1bebe1bcfe1bcbe767182/assets/atividade.svg" width="100%" alt="Atividade de contribuições" />
+<img src="https://raw.githubusercontent.com/guimaraesleiteg-png/guimaraesleiteg-png/481b974464b88e29ba42d3390a412218dd74be03/assets/atividade.svg" width="100%" alt="Atividade de contribuições" />
 
 </div>
 
